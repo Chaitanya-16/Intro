@@ -1,0 +1,17 @@
+ body {
+	 
+	 background-image:URL("images/background3.jpg");
+	 background-repeat:no-repeat;
+	 background-size: cover;
+ }
+ 
+ 
+ #name {
+	 text-align:center;
+	 text-shadow:2px 2px red;
+   color:lime;
+   background-color:black;
+   padding:20px;
+   border:10px;
+   border-style:double;
+}
